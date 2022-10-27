@@ -1,0 +1,37 @@
+{
+  "name": "octo-theme",
+  "displayName": "octo-theme",
+  "description": "a theme based on github dark theme",
+  "icon": "images/logo.png",
+  "version": "0.0.3",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "publisher": "avalynndev",
+  "keywords": [
+    "octo-theme",
+    "avalynndev",
+    "octo theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uzukidev/octo-theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Octo Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/octo-theme-color-theme.json"
+      },
+      {
+        "label": "Octo Theme Dark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/octo-theme-dark-pro.json"
+      }
+    ]
+  }
+}
