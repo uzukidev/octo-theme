@@ -1,7 +1,7 @@
 {
   "name": "octo-theme",
   "displayName": "octo-theme",
-  "description": "a theme based on github dark theme",
+  "description": "a theme made by an octocat",
   "icon": "images/logo.png",
   "version": "0.0.4",
   "engines": {
