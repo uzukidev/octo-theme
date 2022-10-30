@@ -1,9 +1,9 @@
 {
   "name": "octo-theme",
-  "displayName": "octo-theme",
+  "displayName": "Octo theme",
   "description": "a theme made by an octocat",
   "icon": "images/logo.png",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "engines": {
     "vscode": "^1.72.0"
   },
