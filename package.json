@@ -3,7 +3,7 @@
   "displayName": "octo-theme",
   "description": "a theme made by an octocat",
   "icon": "images/logo.png",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.72.0"
   },

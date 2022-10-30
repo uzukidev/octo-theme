@@ -24,3 +24,11 @@ All notable changes to the "octo-theme" extension will be documented in this fil
 - add 3 new themes
 - remove octo theme dark
 - update readme.md
+
+## [0.1.0]
+
+- added one more theme
+
+## [0.1.1]
+
+- update changelog.md
