@@ -24,4 +24,3 @@ All notable changes to the "octo-theme" extension will be documented in this fil
 - add 3 new themes
 - remove octo theme dark
 - update readme.md
-- add readme images

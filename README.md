@@ -1,16 +1,25 @@
-# octo-theme README
+# THIS README IS IN EDIT MODE PLS DON"T DO ANYTHING THAT IS WRITTEN HERE
 
-## Working with Markdown
+<h1 align="center">
+  <br>
+  <a href="https://github.com/uzukidev/octo-theme"><img src="./images/logo.png" height="200" alt="Octo Theme"></a>
+  <br>
+  Octo Theme
+  <br>
+</h1>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<p align="center">A theme created by a group of octo cats !!</p>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<p align="center">
+  <a href="#-resource-links">Resource Links</a>
+  •
+  <a href="#-settings">Settings</a>
+  •
+  <a href="#-contribution">Contribution</a>
+</p>
 
-## For more information
+## 🔗 Resource Links
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## 📐 Settings
 
-**Enjoy!**
+## 🤝 Contribution
