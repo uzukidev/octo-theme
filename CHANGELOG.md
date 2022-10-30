@@ -18,3 +18,10 @@ All notable changes to the "octo-theme" extension will be documented in this fil
 
 - update description
 - create changelog.md
+
+## [0.0.6]
+
+- add 3 new themes
+- remove octo theme dark
+- update readme.md
+- add readme images

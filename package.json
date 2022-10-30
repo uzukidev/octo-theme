@@ -23,9 +23,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Octo Theme Dark",
+        "label": "Octo High Contrast",
         "uiTheme": "vs-dark",
-        "path": "./themes/octo-theme-color-theme.json"
+        "path": "./themes/octo-high-contrast.json"
+      },
+      {
+        "label": "Octo Dark One",
+        "uiTheme": "vs-dark",
+        "path": "./themes/octo-dark-one.json"
+      },
+      {
+        "label": "Octo Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/octo-light.json"
       },
       {
         "label": "Octo Theme Dark Pro",
