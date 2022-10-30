@@ -28,6 +28,11 @@
         "path": "./themes/octo-high-contrast.json"
       },
       {
+        "label": "Octo Discordish",
+        "uiTheme": "vs-dark",
+        "path": "./themes/octo-discordish.json"
+      },
+      {
         "label": "Octo Dark One",
         "uiTheme": "vs-dark",
         "path": "./themes/octo-dark-one.json"
